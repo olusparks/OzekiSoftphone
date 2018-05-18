@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OzekiDemo", "OzekiDemo\OzekiDemo.csproj", "{80B40A11-3B38-4FFD-BDD2-E0BAA6F8F21C}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DynamicDataService", "Service\DynamicDataService\DynamicDataService.vbproj", "{488C67E0-6EEE-47B8-B10A-B63BA14409C2}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "SharedProject", "SharedProject\SharedProject.shproj", "{9AB2FC11-5992-4120-8626-4CC401B70509}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		SharedProject\SharedProject.projitems*{80b40a11-3b38-4ffd-bdd2-e0baa6f8f21c}*SharedItemsImports = 4
+		SharedProject\SharedProject.projitems*{9ab2fc11-5992-4120-8626-4cc401b70509}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80B40A11-3B38-4FFD-BDD2-E0BAA6F8F21C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80B40A11-3B38-4FFD-BDD2-E0BAA6F8F21C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80B40A11-3B38-4FFD-BDD2-E0BAA6F8F21C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{80B40A11-3B38-4FFD-BDD2-E0BAA6F8F21C}.Debug|x86.Build.0 = Debug|Any CPU
+		{80B40A11-3B38-4FFD-BDD2-E0BAA6F8F21C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80B40A11-3B38-4FFD-BDD2-E0BAA6F8F21C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80B40A11-3B38-4FFD-BDD2-E0BAA6F8F21C}.Release|x86.ActiveCfg = Release|Any CPU
+		{80B40A11-3B38-4FFD-BDD2-E0BAA6F8F21C}.Release|x86.Build.0 = Release|Any CPU
+		{488C67E0-6EEE-47B8-B10A-B63BA14409C2}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{488C67E0-6EEE-47B8-B10A-B63BA14409C2}.Debug|x86.ActiveCfg = Debug|x86
+		{488C67E0-6EEE-47B8-B10A-B63BA14409C2}.Debug|x86.Build.0 = Debug|x86
+		{488C67E0-6EEE-47B8-B10A-B63BA14409C2}.Release|Any CPU.ActiveCfg = Release|x86
+		{488C67E0-6EEE-47B8-B10A-B63BA14409C2}.Release|x86.ActiveCfg = Release|x86
+		{488C67E0-6EEE-47B8-B10A-B63BA14409C2}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

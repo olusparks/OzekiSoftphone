@@ -1,0 +1,171 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DynamicDataService
+</name>
+</assembly>
+<members>
+<member name="T:DynamicDataService.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:DynamicDataService.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:DynamicDataService.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:DynamicDataService.Ds">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:DynamicDataService.Ds.Tbl_mAccessNotificationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DynamicDataService.Ds.Qry_MaccessExpiryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DynamicDataService.Ds.Tbl_SMSCue_TestDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DynamicDataService.Ds.Tbl_SubscriptionProfileDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DynamicDataService.Ds.Tbl_SMSCueDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DynamicDataService.Ds.Tbl_mAccessNotificationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DynamicDataService.Ds.Qry_MaccessExpiryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DynamicDataService.Ds.Tbl_SMSCue_TestRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DynamicDataService.Ds.Tbl_SubscriptionProfileRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DynamicDataService.Ds.Tbl_SMSCueRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DynamicDataService.Ds.Tbl_mAccessNotificationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DynamicDataService.Ds.Qry_MaccessExpiryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DynamicDataService.Ds.Tbl_SMSCue_TestRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DynamicDataService.Ds.Tbl_SubscriptionProfileRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DynamicDataService.Ds.Tbl_SMSCueRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DynamicDataService.DsTableAdapters.Tbl_mAccessNotificationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DynamicDataService.DsTableAdapters.Qry_MaccessExpiryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DynamicDataService.DsTableAdapters.Tbl_SMSCue_TestTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DynamicDataService.DsTableAdapters.Tbl_SubscriptionProfileTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DynamicDataService.DsTableAdapters.Tbl_SMSCueTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DynamicDataService.DsTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:DynamicDataService.DsTableAdapters.TableAdapterManager.UpdateUpdatedRows(DynamicDataService.Ds,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:DynamicDataService.DsTableAdapters.TableAdapterManager.UpdateInsertedRows(DynamicDataService.Ds,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:DynamicDataService.DsTableAdapters.TableAdapterManager.UpdateDeletedRows(DynamicDataService.Ds,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:DynamicDataService.DsTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:DynamicDataService.DsTableAdapters.TableAdapterManager.UpdateAll(DynamicDataService.Ds)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:DynamicDataService.DsTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:DynamicDataService.DsTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

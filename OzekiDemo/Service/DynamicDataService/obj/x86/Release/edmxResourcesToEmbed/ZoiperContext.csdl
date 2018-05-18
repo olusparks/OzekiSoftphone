@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ZoiperdbModel" Alias="Self" xmlns="http://schemas.microsoft.com/ado/2009/11/edm" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation">
+  <EntityContainer Name="ZoiperdbEntities" annotation:LazyLoadingEnabled="true" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation">
+    <EntitySet Name="TblPhoneContacts" EntityType="ZoiperdbModel.TblPhoneContact" />
+    <EntitySet Name="TblZoiperSettings" EntityType="ZoiperdbModel.TblZoiperSetting" />
+  </EntityContainer>
+  <EntityType Name="TblPhoneContact">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="ContactName" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="Organization" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="Telephone" Type="String" MaxLength="15" Unicode="true" FixedLength="false" />
+    <Property Name="Url" Type="String" MaxLength="250" Unicode="true" FixedLength="false" />
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+    <Property Name="EntryDate" Type="DateTime" />
+  </EntityType>
+  <EntityType Name="TblZoiperSetting">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+    <Property Name="Domain" Type="String" Nullable="false" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="Username" Type="String" Nullable="false" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="CallerId" Type="String" Nullable="false" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="Password" Type="String" Nullable="false" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="ServiceDuration" Type="Int32" Nullable="false" />
+    <Property Name="IsRestart" Type="Int32" />
+  </EntityType>
+</Schema>

@@ -1,0 +1,27 @@
+C:\Users\haliaeetusvocifer\Documents\Visual Studio 2015\Projects\DynamicDataService\bin\Debug\DynamicDataService.exe.config
+C:\Users\haliaeetusvocifer\Documents\Visual Studio 2015\Projects\DynamicDataService\bin\Debug\Zoiperdb.sdf
+C:\Users\haliaeetusvocifer\Documents\Visual Studio 2015\Projects\DynamicDataService\bin\Debug\DynamicDataService.exe
+C:\Users\haliaeetusvocifer\Documents\Visual Studio 2015\Projects\DynamicDataService\bin\Debug\DynamicDataService.pdb
+C:\Users\haliaeetusvocifer\Documents\Visual Studio 2015\Projects\DynamicDataService\bin\Debug\DynamicDataService.xml
+C:\Users\haliaeetusvocifer\Documents\Visual Studio 2015\Projects\DynamicDataService\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\haliaeetusvocifer\Documents\Visual Studio 2015\Projects\DynamicDataService\obj\x86\Debug\DynamicDataService.DynamicDataService.resources
+C:\Users\haliaeetusvocifer\Documents\Visual Studio 2015\Projects\DynamicDataService\obj\x86\Debug\DynamicDataService.Resources.resources
+C:\Users\haliaeetusvocifer\Documents\Visual Studio 2015\Projects\DynamicDataService\obj\x86\Debug\DynamicDataService.ProjectInstaller.resources
+C:\Users\haliaeetusvocifer\Documents\Visual Studio 2015\Projects\DynamicDataService\obj\x86\Debug\DynamicDataService.vbproj.GenerateResource.Cache
+C:\Users\haliaeetusvocifer\Documents\Visual Studio 2015\Projects\DynamicDataService\obj\x86\Debug\DynamicDataService.exe
+C:\Users\haliaeetusvocifer\Documents\Visual Studio 2015\Projects\DynamicDataService\obj\x86\Debug\DynamicDataService.xml
+C:\Users\haliaeetusvocifer\Documents\Visual Studio 2015\Projects\DynamicDataService\obj\x86\Debug\DynamicDataService.pdb
+C:\Users\jbant\Desktop\ZoiperSoftPhone\Service\DynamicDataService\bin\Debug\Zoiperdb.sdf
+C:\Users\jbant\Desktop\ZoiperSoftPhone\Service\DynamicDataService\bin\Debug\DynamicDataService.exe.config
+C:\Users\jbant\Desktop\ZoiperSoftPhone\Service\DynamicDataService\bin\Debug\DynamicDataService.exe
+C:\Users\jbant\Desktop\ZoiperSoftPhone\Service\DynamicDataService\bin\Debug\DynamicDataService.pdb
+C:\Users\jbant\Desktop\ZoiperSoftPhone\Service\DynamicDataService\bin\Debug\DynamicDataService.xml
+C:\Users\jbant\Desktop\ZoiperSoftPhone\Service\DynamicDataService\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\jbant\Desktop\ZoiperSoftPhone\Service\DynamicDataService\obj\x86\Debug\DynamicDataService.vbprojResolveAssemblyReference.cache
+C:\Users\jbant\Desktop\ZoiperSoftPhone\Service\DynamicDataService\obj\x86\Debug\DynamicDataService.DynamicDataService.resources
+C:\Users\jbant\Desktop\ZoiperSoftPhone\Service\DynamicDataService\obj\x86\Debug\DynamicDataService.Resources.resources
+C:\Users\jbant\Desktop\ZoiperSoftPhone\Service\DynamicDataService\obj\x86\Debug\DynamicDataService.ProjectInstaller.resources
+C:\Users\jbant\Desktop\ZoiperSoftPhone\Service\DynamicDataService\obj\x86\Debug\DynamicDataService.vbproj.GenerateResource.Cache
+C:\Users\jbant\Desktop\ZoiperSoftPhone\Service\DynamicDataService\obj\x86\Debug\DynamicDataService.exe
+C:\Users\jbant\Desktop\ZoiperSoftPhone\Service\DynamicDataService\obj\x86\Debug\DynamicDataService.xml
+C:\Users\jbant\Desktop\ZoiperSoftPhone\Service\DynamicDataService\obj\x86\Debug\DynamicDataService.pdb

@@ -1,0 +1,123 @@
+﻿<Window x:Class="OzekiDemo.PhoneSetting"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OzekiDemo"
+        mc:Ignorable="d"
+       Title="Setting" Height="430" Width="265"  MaxHeight="430"  MaxWidth="265" WindowState="Maximized" ResizeMode="NoResize">
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <!--<ResourceDictionary Source="/WpfCRM;component/Themes/ComboBox.xaml"/>-->
+            </ResourceDictionary.MergedDictionaries>
+
+
+        </ResourceDictionary>
+    </Window.Resources>
+
+
+    <Border CornerRadius="1" Padding="0" BorderThickness="1"   Margin="0"  BorderBrush="#484848" Background="#333333">
+
+        <StackPanel Orientation="Vertical">
+
+
+
+
+            <GroupBox  Foreground="white" Background="#484848" BorderThickness="0" Width="Auto"  HorizontalAlignment="Stretch" Margin="5,10,5,0">
+                <StackPanel Orientation="Vertical">
+                    <Label Content="SIP Account Setup" Foreground="White"  HorizontalAlignment="Center" FontSize="16" ></Label>
+                    <Grid >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="70" ></ColumnDefinition>
+                            <ColumnDefinition Width="*" ></ColumnDefinition>
+
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition  Height="30"  />
+                            <!--0-->
+                            <RowDefinition Height="30" />
+                            <!--1-->
+                            <RowDefinition  Height="30"  />
+                            <!--2-->
+                            <RowDefinition  Height="30"  />
+                            <!--3-->
+                        </Grid.RowDefinitions>
+
+                        <Label Content="Domain :" Name="lblDomain"    Grid.Column="0" Grid.Row="0"  HorizontalAlignment="Right" Margin="0,2,5,0"  VerticalAlignment="Bottom" FontSize="13" Padding="0"  Foreground="white"   />
+                        <TextBox x:Name="txtDomain" Grid.Column="1" Grid.Row="0"  HorizontalAlignment="Stretch"   VerticalAlignment="Bottom"   Text=""  Height="23"  FontSize="13" Margin="0,0,0,0"  />
+
+                        <Label Content="Username :"  Name="lblUsername"  Grid.Column="0" Grid.Row="1"  HorizontalAlignment="Right" Margin="0,2,5,0"  VerticalAlignment="Bottom" FontSize="13" Padding="0" Foreground="White"   />
+                        <TextBox x:Name="txtUsername" Grid.Column="1" Grid.Row="1"  Margin="0,0,0,0"  Text=""    HorizontalAlignment="Stretch" Height="23" VerticalAlignment="Bottom"   FontSize="13"  />
+
+                        <Label Content="Password :"  Name="lblPassword"  Grid.Column="0" Grid.Row="2"  HorizontalAlignment="Right" Margin="0,2,5,0"  VerticalAlignment="Bottom" FontSize="13" Padding="0" Foreground="White" FontWeight="Normal"  />
+                        <PasswordBox x:Name="txtPassword"  Grid.Column="1" Grid.Row="2" Height="23" VerticalAlignment="Bottom" Margin="0,0,0,0" FontSize="13"   />
+
+                        <Label Content="Caller ID :"  Name="lblCallerID"  Grid.Column="0" Grid.Row="3"  HorizontalAlignment="Right" Margin="0,2,5,0"  VerticalAlignment="Center" FontSize="13" Padding="0" Foreground="White" FontWeight="Normal"  />
+                        <TextBox x:Name="txtCallerID" Grid.Column="1" Grid.Row="3"    Height="23" TextAlignment="Left"  VerticalAlignment="Top" Margin="0,7,0,0" FontSize="13"        />
+
+                    </Grid>
+                </StackPanel>
+            </GroupBox>
+
+            <GroupBox   Grid.Row="1" Foreground="white" Background="#484848" BorderThickness="0" Width="Auto"  HorizontalAlignment="Stretch" Margin="5,10,5,0">
+                <StackPanel Orientation="Vertical">
+                    <Label Content="Contact Refresh Interval" Foreground="White"  HorizontalAlignment="Center" FontSize="16" ></Label>
+                    <Grid >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="50" ></ColumnDefinition>
+                            <ColumnDefinition Width="*" ></ColumnDefinition>
+                            <ColumnDefinition Width="*" ></ColumnDefinition>
+
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition  Height="30"  />
+                            <!--0-->
+                            <RowDefinition Height="30" />
+                            <!--1-->
+
+                        </Grid.RowDefinitions>
+
+                        <Label Content="Every" Name="lblsDomain"    Grid.Column="0" Grid.Row="0"  HorizontalAlignment="Right" Margin="0,2,5,0"  VerticalAlignment="Bottom" FontSize="13" Padding="0"  Foreground="white"   />
+                        <TextBox x:Name="txtCounter" Grid.Column="1" HorizontalAlignment="Stretch"  PreviewTextInput="txtCounter_PreviewTextInput"   VerticalAlignment="Bottom" Width="Auto"   MaxLength="2" FontWeight="Bold" Margin="0,0,10,0"  />
+
+                        <ComboBox x:Name="cboDuration" Grid.Column="2" HorizontalAlignment="Stretch"  VerticalAlignment="Bottom"  FontWeight="Bold"  Width="Auto" SelectedIndex="0">
+                            <ComboBoxItem Content="Minute"></ComboBoxItem>
+                            <ComboBoxItem Content="Hour"></ComboBoxItem>
+                            <ComboBoxItem Content="Day"></ComboBoxItem>
+                        </ComboBox>
+
+                        <CheckBox  Name="chkservicestart"  Grid.Row="1" Grid.ColumnSpan="3" Foreground="white" Margin="10,0,0,0" Height="20" VerticalAlignment="Bottom">Restart service for instant effect.</CheckBox>
+
+
+                    </Grid>
+                </StackPanel>
+            </GroupBox>
+
+            <Separator Height="5" Name="Separator1" Width="250"  HorizontalAlignment="Center" Margin="0,5,0,0"/>
+            <DockPanel  Margin="0,5,0,0" LastChildFill="False" >
+                <Button   x:Name="buttonSave"  Width="60" Height="25" Margin="10,0,20,0"   DockPanel.Dock="Right" VerticalAlignment="Bottom"  HorizontalAlignment="Right"  Style="{StaticResource RoundButtonTemplate}" Click="buttonSave_Click">
+                    <Button.Content>
+                        <StackPanel Orientation="Horizontal"  Margin="0">
+                            <Image x:Name="lsave" Source="/OzekiDemo;component/Images/Save.png" Width="10" Height="10" Margin="0,0,5,0" VerticalAlignment="Center"  ></Image>
+                            <TextBlock FontWeight="Bold" VerticalAlignment="Center" >Save</TextBlock>
+                        </StackPanel>
+
+                    </Button.Content>
+
+                </Button>
+                <Button   Height="25" Width="60" Name="btnCancel"  Padding="0" DockPanel.Dock="Right" VerticalAlignment="Bottom" HorizontalAlignment="Right" Margin="22,0,0,0" Style="{StaticResource  RoundButtonTemplate}" Click="btnCancel_Click">
+                    <Button.Content>
+                        <StackPanel Orientation="Horizontal"  Margin="0">
+                            <Image x:Name="Line0Image" Source="/OzekiDemo;component/Images/Delete.png" Width="10" Height="10" Margin="0,0,5,0" VerticalAlignment="Center"  ></Image>
+                            <TextBlock FontWeight="Bold" VerticalAlignment="Center" >Cancel</TextBlock>
+                        </StackPanel>
+                    </Button.Content>
+                </Button>
+
+            </DockPanel>
+
+        </StackPanel>
+
+    </Border>
+</Window>

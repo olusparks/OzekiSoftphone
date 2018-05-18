@@ -1,0 +1,40 @@
+C:\Users\Danjuma\Documents\Visual Studio 2010\Projects\mAccessMessageService\mAccessMessageService\bin\Release\mAccessMessageService.exe.config
+C:\Users\Danjuma\Documents\Visual Studio 2010\Projects\mAccessMessageService\mAccessMessageService\bin\Release\mAccessMessageService.exe
+C:\Users\Danjuma\Documents\Visual Studio 2010\Projects\mAccessMessageService\mAccessMessageService\bin\Release\mAccessMessageService.pdb
+C:\Users\Danjuma\Documents\Visual Studio 2010\Projects\mAccessMessageService\mAccessMessageService\bin\Release\mAccessMessageService.xml
+C:\Users\Danjuma\Documents\Visual Studio 2010\Projects\mAccessMessageService\mAccessMessageService\obj\x86\Release\mAccessMessageService.Resources.resources
+C:\Users\Danjuma\Documents\Visual Studio 2010\Projects\mAccessMessageService\mAccessMessageService\obj\x86\Release\mAccessMessageService.ProjectInstaller.resources
+C:\Users\Danjuma\Documents\Visual Studio 2010\Projects\mAccessMessageService\mAccessMessageService\obj\x86\Release\DynamicDataService.vbproj.GenerateResource.Cache
+C:\Users\Danjuma\Documents\Visual Studio 2010\Projects\mAccessMessageService\mAccessMessageService\obj\x86\Release\mAccessMessageService.exe
+C:\Users\Danjuma\Documents\Visual Studio 2010\Projects\mAccessMessageService\mAccessMessageService\obj\x86\Release\mAccessMessageService.xml
+C:\Users\Danjuma\Documents\Visual Studio 2010\Projects\mAccessMessageService\mAccessMessageService\obj\x86\Release\mAccessMessageService.pdb
+C:\Users\Danjuma\Documents\Visual Studio 2010\Projects\mAccessMessageService\mAccessMessageService\obj\x86\Release\mAccessMessageService.DynamicDataService.resources
+C:\Users\Danjuma\Documents\Visual Studio 2010\Projects\DynamicDataService\DynamicDataService\obj\x86\Release\mAccessMessageService.DynamicDataService.resources
+C:\Users\Danjuma\Documents\Visual Studio 2010\Projects\DynamicDataService\DynamicDataService\obj\x86\Release\mAccessMessageService.Resources.resources
+C:\Users\Danjuma\Documents\Visual Studio 2010\Projects\DynamicDataService\DynamicDataService\obj\x86\Release\mAccessMessageService.ProjectInstaller.resources
+C:\Users\Danjuma\Documents\Visual Studio 2010\Projects\DynamicDataService\DynamicDataService\obj\x86\Release\DynamicDataService.vbproj.GenerateResource.Cache
+C:\Users\Danjuma\Documents\Visual Studio 2010\Projects\DynamicDataService\DynamicDataService\obj\x86\Release\DynamicDataService.vbprojResolveAssemblyReference.cache
+F:\DynamicDataService\DynamicDataService\obj\x86\Release\DynamicDataService.vbproj.GenerateResource.Cache
+F:\DynamicDataService\DynamicDataService\bin\Release\Zoiperdb.sdf
+F:\DynamicDataService\DynamicDataService\bin\Release\CRMContact.dll
+F:\DynamicDataService\DynamicDataService\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+F:\DynamicDataService\DynamicDataService\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+F:\DynamicDataService\DynamicDataService\bin\Release\Newtonsoft.Json.dll
+F:\DynamicDataService\DynamicDataService\bin\Release\NLog.dll
+F:\DynamicDataService\DynamicDataService\bin\Release\ADALV3_For_CRM.dll
+F:\DynamicDataService\DynamicDataService\bin\Release\CRMContact.pdb
+F:\DynamicDataService\DynamicDataService\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+F:\DynamicDataService\DynamicDataService\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+F:\DynamicDataService\DynamicDataService\bin\Release\Newtonsoft.Json.xml
+F:\DynamicDataService\DynamicDataService\bin\Release\NLog.xml
+F:\DynamicDataService\DynamicDataService\bin\Release\ADALV3_For_CRM.pdb
+F:\DynamicDataService\DynamicDataService\bin\Release\DynamicDataService.exe.config
+F:\DynamicDataService\DynamicDataService\obj\x86\Release\DynamicDataService.DynamicDataService.resources
+F:\DynamicDataService\DynamicDataService\obj\x86\Release\DynamicDataService.Resources.resources
+F:\DynamicDataService\DynamicDataService\obj\x86\Release\DynamicDataService.ProjectInstaller.resources
+F:\DynamicDataService\DynamicDataService\obj\x86\Release\DynamicDataService.xml
+F:\DynamicDataService\DynamicDataService\bin\Release\DynamicDataService.exe
+F:\DynamicDataService\DynamicDataService\bin\Release\DynamicDataService.pdb
+F:\DynamicDataService\DynamicDataService\bin\Release\DynamicDataService.xml
+F:\DynamicDataService\DynamicDataService\obj\x86\Release\DynamicDataService.exe
+F:\DynamicDataService\DynamicDataService\obj\x86\Release\DynamicDataService.pdb

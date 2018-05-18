@@ -1,0 +1,26 @@
+﻿<Window x:Class="OzekiDemo.TransferWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OzekiDemo"
+        mc:Ignorable="d"
+        Title="TransferWindow" Height="300" Width="300">
+    <Grid>
+        <Rectangle Height="87" Name="rectBlindTransfer" Stroke="Black" VerticalAlignment="Top" Margin="6,6,6,0" Grid.ColumnSpan="2" />
+        <RadioButton Name="rbBlindTransfer" Content="Blind Transfer" Height="16" HorizontalAlignment="Left" Margin="12,12,0,0"  VerticalAlignment="Top" />
+        <Grid Margin="6,6,6,167">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="60" />
+                <ColumnDefinition Width="213*" />
+            </Grid.ColumnDefinitions>
+
+            <Label Name="lBlindTransferTarget" Content="Target:" Height="28" HorizontalAlignment="Left" Margin="18,36,0,0"  VerticalAlignment="Top" />
+            <Label Name="lExample" Content="Example: 873 or 873@192.168.112.1" Height="28" HorizontalAlignment="Left" Margin="17,62,0,0" VerticalAlignment="Top" FontStyle="Italic" FontSize="11" Grid.Column="1" />
+            <TextBox Name="txtBlindTransferTarget" Height="23" HorizontalAlignment="Left" Margin="0,36,0,0"  VerticalAlignment="Top" Width="195" Grid.Column="1" />
+        </Grid>
+        
+        <Button Name="btnBlindTransfer" Content="Transfer" Height="23" HorizontalAlignment="Left" Margin="63,107,0,0"  VerticalAlignment="Top" Width="75" Click="btnBlindTransfer_Click" />
+        <Button Name="btnCancel" Content="Cancel" Height="23" HorizontalAlignment="Left" Margin="143,107,0,0" VerticalAlignment="Top" Width="75" Click="btnCancel_Click" />
+    </Grid>
+</Window>

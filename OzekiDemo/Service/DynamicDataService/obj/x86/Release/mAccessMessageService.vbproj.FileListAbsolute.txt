@@ -1,0 +1,15 @@
+c:\users\danjuma\documents\visual studio 2010\Projects\mAccessMessageService\mAccessMessageService\bin\Release\mAccessMessageService.exe.config
+c:\users\danjuma\documents\visual studio 2010\Projects\mAccessMessageService\mAccessMessageService\bin\Release\mAccessMessageService.exe
+c:\users\danjuma\documents\visual studio 2010\Projects\mAccessMessageService\mAccessMessageService\bin\Release\mAccessMessageService.pdb
+c:\users\danjuma\documents\visual studio 2010\Projects\mAccessMessageService\mAccessMessageService\bin\Release\mAccessMessageService.xml
+c:\users\danjuma\documents\visual studio 2010\Projects\mAccessMessageService\mAccessMessageService\obj\x86\Release\mAccessMessageService.mAccessMessageService.resources
+c:\users\danjuma\documents\visual studio 2010\Projects\mAccessMessageService\mAccessMessageService\obj\x86\Release\mAccessMessageService.Resources.resources
+c:\users\danjuma\documents\visual studio 2010\Projects\mAccessMessageService\mAccessMessageService\obj\x86\Release\mAccessMessageService.ProjectInstaller.resources
+c:\users\danjuma\documents\visual studio 2010\Projects\mAccessMessageService\mAccessMessageService\obj\x86\Release\mAccessMessageService.vbproj.GenerateResource.Cache
+c:\users\danjuma\documents\visual studio 2010\Projects\mAccessMessageService\mAccessMessageService\obj\x86\Release\mAccessMessageService.exe
+c:\users\danjuma\documents\visual studio 2010\Projects\mAccessMessageService\mAccessMessageService\obj\x86\Release\mAccessMessageService.xml
+c:\users\danjuma\documents\visual studio 2010\Projects\mAccessMessageService\mAccessMessageService\obj\x86\Release\mAccessMessageService.pdb
+G:\Expansion Drive\Projects\Visual Studio 2010\Projects\mAccessMessageService\mAccessMessageService\bin\Release\mAccessMessageService.exe.config
+G:\Expansion Drive\Projects\Visual Studio 2010\Projects\mAccessMessageService\mAccessMessageService\obj\x86\Release\mAccessMessageService.exe
+G:\Expansion Drive\Projects\Visual Studio 2010\Projects\mAccessMessageService\mAccessMessageService\obj\x86\Release\mAccessMessageService.xml
+G:\Expansion Drive\Projects\Visual Studio 2010\Projects\mAccessMessageService\mAccessMessageService\obj\x86\Release\mAccessMessageService.pdb

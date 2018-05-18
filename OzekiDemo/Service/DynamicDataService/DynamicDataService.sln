@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DynamicDataService", "DynamicDataService.vbproj", "{488C67E0-6EEE-47B8-B10A-B63BA14409C2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DynamicDataServiceSetup", "..\DynamicDataServiceSetup\DynamicDataServiceSetup.vdproj", "{23F7C9B5-BF22-4C97-8DA9-88AB0A3A4E39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{488C67E0-6EEE-47B8-B10A-B63BA14409C2}.Debug|x86.ActiveCfg = Debug|x86
+		{488C67E0-6EEE-47B8-B10A-B63BA14409C2}.Debug|x86.Build.0 = Debug|x86
+		{488C67E0-6EEE-47B8-B10A-B63BA14409C2}.Release|x86.ActiveCfg = Release|x86
+		{488C67E0-6EEE-47B8-B10A-B63BA14409C2}.Release|x86.Build.0 = Release|x86
+		{23F7C9B5-BF22-4C97-8DA9-88AB0A3A4E39}.Debug|x86.ActiveCfg = Debug
+		{23F7C9B5-BF22-4C97-8DA9-88AB0A3A4E39}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

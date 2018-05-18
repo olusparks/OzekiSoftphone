@@ -1,0 +1,72 @@
+c:\users\jbant\documents\visual studio 2015\Projects\OzekiDemo\OzekiDemo\bin\Debug\OzekiDemo.exe.config
+c:\users\jbant\documents\visual studio 2015\Projects\OzekiDemo\OzekiDemo\bin\Debug\OzekiDemo.exe
+c:\users\jbant\documents\visual studio 2015\Projects\OzekiDemo\OzekiDemo\bin\Debug\OzekiDemo.pdb
+c:\users\jbant\documents\visual studio 2015\Projects\OzekiDemo\OzekiDemo\bin\Debug\OzekiSDK.dll
+c:\users\jbant\documents\visual studio 2015\Projects\OzekiDemo\OzekiDemo\obj\Debug\App.baml
+c:\users\jbant\documents\visual studio 2015\Projects\OzekiDemo\OzekiDemo\obj\Debug\MainWindow.g.cs
+c:\users\jbant\documents\visual studio 2015\Projects\OzekiDemo\OzekiDemo\obj\Debug\Phone.g.cs
+c:\users\jbant\documents\visual studio 2015\Projects\OzekiDemo\OzekiDemo\obj\Debug\PhoneSetting.g.cs
+c:\users\jbant\documents\visual studio 2015\Projects\OzekiDemo\OzekiDemo\obj\Debug\App.g.cs
+c:\users\jbant\documents\visual studio 2015\Projects\OzekiDemo\OzekiDemo\obj\Debug\OzekiDemo_MarkupCompile.cache
+c:\users\jbant\documents\visual studio 2015\Projects\OzekiDemo\OzekiDemo\obj\Debug\OzekiDemo_MarkupCompile.lref
+c:\users\jbant\documents\visual studio 2015\Projects\OzekiDemo\OzekiDemo\obj\Debug\MainWindow.baml
+c:\users\jbant\documents\visual studio 2015\Projects\OzekiDemo\OzekiDemo\obj\Debug\Phone.baml
+c:\users\jbant\documents\visual studio 2015\Projects\OzekiDemo\OzekiDemo\obj\Debug\PhoneSetting.baml
+c:\users\jbant\documents\visual studio 2015\Projects\OzekiDemo\OzekiDemo\obj\Debug\OzekiDemo.g.resources
+c:\users\jbant\documents\visual studio 2015\Projects\OzekiDemo\OzekiDemo\obj\Debug\OzekiDemo.Properties.Resources.resources
+c:\users\jbant\documents\visual studio 2015\Projects\OzekiDemo\OzekiDemo\obj\Debug\OzekiDemo.csproj.GenerateResource.Cache
+c:\users\jbant\documents\visual studio 2015\Projects\OzekiDemo\OzekiDemo\obj\Debug\OzekiDemo.exe
+c:\users\jbant\documents\visual studio 2015\Projects\OzekiDemo\OzekiDemo\obj\Debug\OzekiDemo.pdb
+c:\users\jbant\documents\visual studio 2015\Projects\OzekiDemo\OzekiDemo\obj\Debug\OzekiDemo.csprojResolveAssemblyReference.cache
+c:\users\jbant\documents\visual studio 2015\Projects\OzekiDemo\OzekiDemo\obj\Debug\Forward.g.cs
+c:\users\jbant\documents\visual studio 2015\Projects\OzekiDemo\OzekiDemo\obj\Debug\TransferWindow.g.cs
+c:\users\jbant\documents\visual studio 2015\Projects\OzekiDemo\OzekiDemo\obj\Debug\Forward.baml
+c:\users\jbant\documents\visual studio 2015\Projects\OzekiDemo\OzekiDemo\obj\Debug\TransferWindow.baml
+C:\Users\jbant\Source\Repos\crmextensions\OzekiDemo\OzekiDemo\bin\Debug\OzekiDemo.exe.config
+C:\Users\jbant\Source\Repos\crmextensions\OzekiDemo\OzekiDemo\obj\Debug\OzekiDemo.exe
+C:\Users\jbant\Source\Repos\crmextensions\OzekiDemo\OzekiDemo\obj\Debug\OzekiDemo.pdb
+C:\Users\jbant\Source\Repos\crmextensions\OzekiDemo\OzekiDemo\bin\Debug\OzekiDemo.exe
+C:\Users\jbant\Source\Repos\crmextensions\OzekiDemo\OzekiDemo\bin\Debug\OzekiDemo.pdb
+C:\Users\jbant\Source\Repos\crmextensions\OzekiDemo\OzekiDemo\bin\Debug\OzekiSDK.dll
+C:\Users\jbant\Source\Repos\crmextensions\OzekiDemo\OzekiDemo\obj\Debug\OzekiDemo.csprojResolveAssemblyReference.cache
+C:\Users\jbant\Source\Repos\crmextensions\OzekiDemo\OzekiDemo\obj\Debug\App.baml
+C:\Users\jbant\Source\Repos\crmextensions\OzekiDemo\OzekiDemo\obj\Debug\Forward.g.cs
+C:\Users\jbant\Source\Repos\crmextensions\OzekiDemo\OzekiDemo\obj\Debug\MainWindow.g.cs
+C:\Users\jbant\Source\Repos\crmextensions\OzekiDemo\OzekiDemo\obj\Debug\Phone.g.cs
+C:\Users\jbant\Source\Repos\crmextensions\OzekiDemo\OzekiDemo\obj\Debug\PhoneSetting.g.cs
+C:\Users\jbant\Source\Repos\crmextensions\OzekiDemo\OzekiDemo\obj\Debug\TransferWindow.g.cs
+C:\Users\jbant\Source\Repos\crmextensions\OzekiDemo\OzekiDemo\obj\Debug\App.g.cs
+C:\Users\jbant\Source\Repos\crmextensions\OzekiDemo\OzekiDemo\obj\Debug\OzekiDemo_MarkupCompile.cache
+C:\Users\jbant\Source\Repos\crmextensions\OzekiDemo\OzekiDemo\obj\Debug\OzekiDemo_MarkupCompile.lref
+C:\Users\jbant\Source\Repos\crmextensions\OzekiDemo\OzekiDemo\obj\Debug\Forward.baml
+C:\Users\jbant\Source\Repos\crmextensions\OzekiDemo\OzekiDemo\obj\Debug\MainWindow.baml
+C:\Users\jbant\Source\Repos\crmextensions\OzekiDemo\OzekiDemo\obj\Debug\Phone.baml
+C:\Users\jbant\Source\Repos\crmextensions\OzekiDemo\OzekiDemo\obj\Debug\PhoneSetting.baml
+C:\Users\jbant\Source\Repos\crmextensions\OzekiDemo\OzekiDemo\obj\Debug\TransferWindow.baml
+C:\Users\jbant\Source\Repos\crmextensions\OzekiDemo\OzekiDemo\obj\Debug\OzekiDemo.g.resources
+C:\Users\jbant\Source\Repos\crmextensions\OzekiDemo\OzekiDemo\obj\Debug\OzekiDemo.Properties.Resources.resources
+C:\Users\jbant\Source\Repos\crmextensions\OzekiDemo\OzekiDemo\obj\Debug\OzekiDemo.csproj.GenerateResource.Cache
+C:\Users\jbant\Desktop\OzekiDemo\OzekiDemo\bin\Debug\OzekiDemo.exe.config
+C:\Users\jbant\Desktop\OzekiDemo\OzekiDemo\obj\Debug\OzekiDemo.exe
+C:\Users\jbant\Desktop\OzekiDemo\OzekiDemo\obj\Debug\OzekiDemo.pdb
+C:\Users\jbant\Desktop\OzekiDemo\OzekiDemo\bin\Debug\OzekiDemo.exe
+C:\Users\jbant\Desktop\OzekiDemo\OzekiDemo\bin\Debug\OzekiDemo.pdb
+C:\Users\jbant\Desktop\OzekiDemo\OzekiDemo\bin\Debug\OzekiSDK.dll
+C:\Users\jbant\Desktop\OzekiDemo\OzekiDemo\obj\Debug\OzekiDemo.csprojResolveAssemblyReference.cache
+C:\Users\jbant\Desktop\OzekiDemo\OzekiDemo\obj\Debug\App.baml
+C:\Users\jbant\Desktop\OzekiDemo\OzekiDemo\obj\Debug\Forward.g.cs
+C:\Users\jbant\Desktop\OzekiDemo\OzekiDemo\obj\Debug\MainWindow.g.cs
+C:\Users\jbant\Desktop\OzekiDemo\OzekiDemo\obj\Debug\Phone.g.cs
+C:\Users\jbant\Desktop\OzekiDemo\OzekiDemo\obj\Debug\PhoneSetting.g.cs
+C:\Users\jbant\Desktop\OzekiDemo\OzekiDemo\obj\Debug\TransferWindow.g.cs
+C:\Users\jbant\Desktop\OzekiDemo\OzekiDemo\obj\Debug\App.g.cs
+C:\Users\jbant\Desktop\OzekiDemo\OzekiDemo\obj\Debug\OzekiDemo_MarkupCompile.cache
+C:\Users\jbant\Desktop\OzekiDemo\OzekiDemo\obj\Debug\OzekiDemo_MarkupCompile.lref
+C:\Users\jbant\Desktop\OzekiDemo\OzekiDemo\obj\Debug\Forward.baml
+C:\Users\jbant\Desktop\OzekiDemo\OzekiDemo\obj\Debug\MainWindow.baml
+C:\Users\jbant\Desktop\OzekiDemo\OzekiDemo\obj\Debug\Phone.baml
+C:\Users\jbant\Desktop\OzekiDemo\OzekiDemo\obj\Debug\PhoneSetting.baml
+C:\Users\jbant\Desktop\OzekiDemo\OzekiDemo\obj\Debug\TransferWindow.baml
+C:\Users\jbant\Desktop\OzekiDemo\OzekiDemo\obj\Debug\OzekiDemo.g.resources
+C:\Users\jbant\Desktop\OzekiDemo\OzekiDemo\obj\Debug\OzekiDemo.Properties.Resources.resources
+C:\Users\jbant\Desktop\OzekiDemo\OzekiDemo\obj\Debug\OzekiDemo.csproj.GenerateResource.Cache

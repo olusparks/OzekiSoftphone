@@ -1,0 +1,11 @@
+c:\users\danjuma\documents\visual studio 2010\Projects\mAccessMessageService\mAccessMessageService\obj\x86\Debug\mAccessMessageService.mAccessMessageService.resources
+c:\users\danjuma\documents\visual studio 2010\Projects\mAccessMessageService\mAccessMessageService\obj\x86\Debug\mAccessMessageService.Resources.resources
+c:\users\danjuma\documents\visual studio 2010\Projects\mAccessMessageService\mAccessMessageService\obj\x86\Debug\mAccessMessageService.ProjectInstaller.resources
+c:\users\danjuma\documents\visual studio 2010\Projects\mAccessMessageService\mAccessMessageService\obj\x86\Debug\mAccessMessageService.vbproj.GenerateResource.Cache
+c:\users\danjuma\documents\visual studio 2010\Projects\mAccessMessageService\mAccessMessageService\bin\Debug\mAccessMessageService.exe
+c:\users\danjuma\documents\visual studio 2010\Projects\mAccessMessageService\mAccessMessageService\bin\Debug\mAccessMessageService.pdb
+c:\users\danjuma\documents\visual studio 2010\Projects\mAccessMessageService\mAccessMessageService\bin\Debug\mAccessMessageService.xml
+c:\users\danjuma\documents\visual studio 2010\Projects\mAccessMessageService\mAccessMessageService\obj\x86\Debug\mAccessMessageService.exe
+c:\users\danjuma\documents\visual studio 2010\Projects\mAccessMessageService\mAccessMessageService\obj\x86\Debug\mAccessMessageService.xml
+c:\users\danjuma\documents\visual studio 2010\Projects\mAccessMessageService\mAccessMessageService\obj\x86\Debug\mAccessMessageService.pdb
+c:\users\danjuma\documents\visual studio 2010\Projects\mAccessMessageService\mAccessMessageService\bin\Debug\mAccessMessageService.exe.config
